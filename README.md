@@ -31,7 +31,7 @@ The project focuses on extracting insights from the pizza sales data. Various qu
 - Most common pizza sizes and types.
 - Category-wise and hourly distribution of pizza sales.
 
-📊 Analysis Highlights
+# 📊 Analysis Highlights
 
 Key business questions addressed in this project:
 
